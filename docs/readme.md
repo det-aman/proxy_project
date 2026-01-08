@@ -193,3 +193,7 @@ Now if we put `example.com` in `blocked_domains.txt` this is how results appear 
 ## 11. Conclusion
 
 The implemented proxy server satisfies all the necesaary deliverables, including HTTP forwarding, HTTPS tunneling, domain-based filtering, concurrency, and logging. The modular design allows for future extensions such as caching, authentication, or more advanced concurrency models.
+
+## 12. Video link 
+https://drive.google.com/file/d/1ec7Zn1YXj06h9sO-NWPttJlM-AQp5l03/view?usp=drive_link
+
